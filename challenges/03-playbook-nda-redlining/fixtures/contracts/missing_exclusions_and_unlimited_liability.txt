@@ -1,0 +1,11 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+1. Confidential Information. "Confidential Information" means any technical, business, financial, or other information disclosed by either party to the other, whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information. The receiving party agrees to use the same degree of care to protect the Confidential Information that it uses to protect its own confidential information of like importance.
+
+2. Confidentiality Obligation. Each party agrees to hold the other party's Confidential Information in strict confidence and not to disclose it to any third party without prior written consent. The obligations of confidentiality under this Agreement shall survive for a period of 2 years from the date of disclosure.
+
+3. Governing Law. This Agreement shall be governed by the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+4. Limitation of Liability. Each party agrees to indemnify, defend, and hold harmless the other party from and against any and all claims, damages, liabilities, costs, and expenses arising out of or related to a breach of this Agreement. There shall be no limit on either party's liability, and each party accepts unlimited liability for any breach of its obligations under this Agreement.
+
+5. Miscellaneous. This Agreement constitutes the entire understanding between the parties with respect to its subject matter and supersedes all prior discussions.

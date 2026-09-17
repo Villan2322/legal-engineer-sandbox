@@ -1,0 +1,27 @@
+[
+  {
+    "rule_id": "confidentiality_term",
+    "name": "Confidentiality Term Cap",
+    "description": "The confidentiality obligation must not exceed 3 years from disclosure, and must not be perpetual or indefinite."
+  },
+  {
+    "rule_id": "governing_law",
+    "name": "Approved Governing Law",
+    "description": "Governing law must be one of the firm's approved jurisdictions: Delaware, New York, or Texas."
+  },
+  {
+    "rule_id": "non_solicit_cap",
+    "name": "Non-Solicitation Period Cap",
+    "description": "If a non-solicitation clause is present, its restriction period must not exceed 12 months. Non-solicitation clauses are optional and are not required."
+  },
+  {
+    "rule_id": "confidentiality_exclusions",
+    "name": "Standard Confidentiality Exclusions",
+    "description": "The definition of Confidential Information must carve out information that is or becomes publicly available, was already known, is independently developed, or is rightfully received from a third party."
+  },
+  {
+    "rule_id": "liability_cap",
+    "name": "No Unlimited Liability",
+    "description": "The contract must not impose unlimited liability or require indemnification against 'any and all' claims without a limiting cap."
+  }
+]

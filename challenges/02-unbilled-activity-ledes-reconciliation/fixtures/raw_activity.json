@@ -1,0 +1,65 @@
+[
+  {
+    "entry_id": "E-001",
+    "timekeeper": "J. Alvarez",
+    "date": "2026-09-02",
+    "duration_minutes": 30,
+    "description": "Email to client regarding M-2031 discovery schedule updates."
+  },
+  {
+    "entry_id": "E-002",
+    "timekeeper": "J. Alvarez",
+    "date": "2026-09-02",
+    "duration_minutes": 45,
+    "description": "Call with client to discuss settlement strategy for Solstice Capital Partners engagement."
+  },
+  {
+    "entry_id": "E-003",
+    "timekeeper": "R. Chen",
+    "date": "2026-09-03",
+    "duration_minutes": 6,
+    "description": "Reviewed document production for M-2044 case file."
+  },
+  {
+    "entry_id": "E-004",
+    "timekeeper": "R. Chen",
+    "date": "2026-09-03",
+    "duration_minutes": 7,
+    "description": "Drafting a memo after reviewing the discovery documents for Kestrel Home Goods matter."
+  },
+  {
+    "entry_id": "E-005",
+    "timekeeper": "M. Okafor",
+    "date": "2026-09-04",
+    "duration_minutes": 60,
+    "description": "Prepared for hearing in the Fenwick & Dalton Retail lease dispute (M-2068)."
+  },
+  {
+    "entry_id": "E-006",
+    "timekeeper": "M. Okafor",
+    "date": "2026-09-04",
+    "duration_minutes": 15,
+    "description": "Legal research on non-compete enforceability for Alderbrook Manufacturing matter."
+  },
+  {
+    "entry_id": "E-007",
+    "timekeeper": "J. Alvarez",
+    "date": "2026-09-05",
+    "duration_minutes": 20,
+    "description": "Quick call about scheduling next steps."
+  },
+  {
+    "entry_id": "E-008",
+    "timekeeper": "R. Chen",
+    "date": "2026-09-05",
+    "duration_minutes": 12,
+    "description": "Reviewed discovery documents and drafted objections for Solstice Capital Partners."
+  },
+  {
+    "entry_id": "E-009",
+    "timekeeper": "M. Okafor",
+    "date": "2026-09-06",
+    "duration_minutes": 5,
+    "description": "Miscellaneous administrative task for M-2057 - updated case management system."
+  }
+]

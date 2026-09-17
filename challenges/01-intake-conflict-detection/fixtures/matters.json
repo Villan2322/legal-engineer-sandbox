@@ -1,0 +1,34 @@
+[
+  {
+    "matter_id": "M-1001",
+    "status": "open",
+    "client_name": "Meridian Health Partners LLC",
+    "client_aliases": ["Meridian Health Partners", "MHP"],
+    "subsidiaries": ["Meridian Surgical Centers Inc.", "Meridian Home Health Inc."],
+    "adverse_parties": ["Alliance Medical Group"]
+  },
+  {
+    "matter_id": "M-1002",
+    "status": "open",
+    "client_name": "Blue Harbor Logistics Corp",
+    "client_aliases": ["Blue Harbor Logistics", "BHL"],
+    "subsidiaries": ["Blue Harbor Freight Solutions LLC"],
+    "adverse_parties": ["Continental Shipping Co."]
+  },
+  {
+    "matter_id": "M-1003",
+    "status": "closed",
+    "client_name": "Whitcombe Retail Holdings",
+    "client_aliases": ["Whitcombe Retail"],
+    "subsidiaries": [],
+    "adverse_parties": ["Pinnacle Property Management"]
+  },
+  {
+    "matter_id": "M-1004",
+    "status": "open",
+    "client_name": "Redstone Energy Partners",
+    "client_aliases": ["Redstone Energy"],
+    "subsidiaries": ["Redstone Pipeline Services LLC"],
+    "adverse_parties": ["Grayson Mineral Rights Trust"]
+  }
+]

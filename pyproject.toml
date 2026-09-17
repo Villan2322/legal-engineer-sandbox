@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["challenges", "tools/tests"]
+python_files = ["test_*.py"]
+addopts = "-ra"

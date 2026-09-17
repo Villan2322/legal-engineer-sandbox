@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
+*.egg-info/
+.coverage
+htmlcov/
+
+# Reference solutions are for maintainers only — never publish these to the
+# public default branch. Keep them on a private branch or excluded entirely.
+solutions/

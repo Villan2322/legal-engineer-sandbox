@@ -1,0 +1,67 @@
+[
+  {
+    "category": "client_communication",
+    "task_code": "L100",
+    "activity_code": "A104",
+    "keywords": [
+      "call with client",
+      "email to client",
+      "client call",
+      "client meeting",
+      "phone call",
+      "correspondence"
+    ]
+  },
+  {
+    "category": "document_review",
+    "task_code": "L110",
+    "activity_code": "A103",
+    "keywords": [
+      "document review",
+      "review production",
+      "reviewing documents",
+      "discovery documents",
+      "document production"
+    ]
+  },
+  {
+    "category": "drafting",
+    "task_code": "L210",
+    "activity_code": "A105",
+    "keywords": [
+      "draft",
+      "drafting",
+      "prepare memo",
+      "redline"
+    ]
+  },
+  {
+    "category": "court_hearing",
+    "task_code": "L300",
+    "activity_code": "A107",
+    "keywords": [
+      "hearing",
+      "court appearance",
+      "prepare for hearing",
+      "deposition",
+      "oral argument"
+    ]
+  },
+  {
+    "category": "legal_research",
+    "task_code": "L120",
+    "activity_code": "A106",
+    "keywords": [
+      "legal research",
+      "case law",
+      "westlaw",
+      "research memo"
+    ]
+  },
+  {
+    "category": "other",
+    "task_code": "L190",
+    "activity_code": "A999",
+    "keywords": []
+  }
+]
