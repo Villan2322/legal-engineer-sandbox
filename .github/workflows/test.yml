@@ -1,5 +1,12 @@
 name: tests
 
+# The challenge stubs under challenges/*/ are SUPPOSED to fail — that's the
+# whole point of the repo — so this workflow does not run them to a pass/fail
+# verdict on push. It runs the fully-implemented tooling tests (tools/tests)
+# and a collection-only pass over every challenge, which catches a broken
+# fixture, a bad import, or a typo in a test file without demanding anyone
+# has solved anything yet. If you're solving a challenge in your own fork,
+# run `pytest` locally to see real pass/fail against your implementation.
 on:
   push:
   pull_request:
@@ -13,4 +20,7 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
-      - run: pytest -v
+      - name: Run fully-implemented tooling tests
+        run: pytest tools/tests -v
+      - name: Sanity-check every challenge collects (imports, fixtures, syntax)
+        run: pytest challenges --collect-only -q
